@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Czarek
 - 👀 I’m interested in testing, new technologies, chess 
-- 🌱 I’m currently learning manual testing, automation testing 
+- 🌱 I’m currently learning manual testing, automation testing in java
 - 📫 How to reach me cmatyska@gmail.com
 
 <!---
